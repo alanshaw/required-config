@@ -13,5 +13,21 @@
   },
   "devDependencies": {
     "tape": "^4.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/required-config.git"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "required",
+    "mandatory",
+    "validation",
+    "validate"
+  ],
+  "bugs": {
+    "url": "https://github.com/alanshaw/required-config/issues"
+  },
+  "homepage": "https://github.com/alanshaw/required-config#readme"
 }
